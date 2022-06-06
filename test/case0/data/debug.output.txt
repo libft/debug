@@ -1,0 +1,4 @@
+Hello world!
+0 | <stdin>:17: do_something
+1 | <stdin>:21: do_something
+<stdin>:35: main: Assertion `!err` failed: do_something(true) failed

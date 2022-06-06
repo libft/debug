@@ -1,0 +1,11 @@
+{
+  "C_Cpp.default.cStandard": "c99",
+  "c-cpp-flylint.standard": [
+    "c99",
+    "c++98",
+  ],
+  "C_Cpp.default.includePath": [
+    "${default}",
+    "$(workspaceFolder}/src",
+  ],
+}
